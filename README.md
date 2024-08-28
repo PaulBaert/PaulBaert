@@ -1,9 +1,6 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Paul! A new Data analyst to be !
@@ -27,6 +24,7 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   </div>
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -42,6 +40,8 @@
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
+
+ 
 
 ## 📈 GitHub Stats
 ![PaulBaert's Stats](https://github-readme-stats.vercel.app/api?username=PaulBaert&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
