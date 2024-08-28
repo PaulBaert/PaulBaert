@@ -21,4 +21,9 @@
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I'm also a fisherman sometimes when i have the opportunity ! 
 
-
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
