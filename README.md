@@ -20,6 +20,7 @@
   - 💬 I am 35 years old, currently living in France. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I'm also a fisherman sometimes when i have the opportunity ! 
+</details>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
