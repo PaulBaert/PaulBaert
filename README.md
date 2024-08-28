@@ -45,6 +45,13 @@
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 
+## 🛠️ More Tools
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker-studio&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FFDD44?style=flat-square&logo=dataviz&logoColor=white)
+
+
  
 
 ## 📈 GitHub Stats
